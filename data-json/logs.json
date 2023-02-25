@@ -1,0 +1,22 @@
+{
+    "logs": [
+        {
+            "userId": 1,
+            "requestVerb": "GET",
+            "requestEntity": "/users",
+            "date": "2023-02-26"
+        },
+        {
+            "userId": 1,
+            "requestVerb": "GET",
+            "requestEntity": "/users",
+            "date": "2023-02-26"
+        },
+        {
+            "userId": 1,
+            "requestVerb": "GET",
+            "requestEntity": "/users",
+            "date": "2023-02-26"
+        }
+    ]
+}
